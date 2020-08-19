@@ -4,7 +4,7 @@ My Python Data Analysis Optional 2sd Capstone Project From:
 Codecademy Data Science course Python, Statistics with NumPy and Hypothesis Testing with SciPy section.
 
 Project:
-Analysis an A/B test from MuscleHub dataset. 
+Analysis of species data from The National Parks Service. 
 
 ----------------------------------------------------------------------------------------
 
